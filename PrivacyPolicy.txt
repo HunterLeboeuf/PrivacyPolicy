@@ -1,0 +1,4 @@
+This application does not collect or store personal data.
+This app will only connect to the RE-Rassor Software if the user inputs the ip address into the first screen of the application. 
+
+If you installed this application from Google Play, then Google Play does collect some personal data. Please see the privacy policy for Google Play Services here: https://policies.google.com/privacy
